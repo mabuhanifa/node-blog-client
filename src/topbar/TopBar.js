@@ -9,6 +9,7 @@ const TopBar = () => {
         <i className="topIcon fab fa-pinterest-square"></i>
         <i className="topIcon fab fa-twitter-square"></i>
       </div>
+      
     </div>
   );
 };
