@@ -1,10 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400;500;600;700;800;900&family=Lora:ital@0;1&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Mukta&family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400;500;600;700;800;900&family=Josefin+Sans&family=Lora:ital@0;1&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Mukta&family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&family=Varela+Round&display=swap');
 
 /* font-family: 'Inconsolata', monospace;
+font-family: 'Josefin Sans', sans-serif;
 font-family: 'Lora', serif;
 font-family: 'Merriweather', serif;
 font-family: 'Mukta', sans-serif;
-font-family: 'Playfair Display', serif; */
+font-family: 'Playfair Display', serif;
+font-family: 'Varela Round', sans-serif; */
 
 * {
   margin: 0;
