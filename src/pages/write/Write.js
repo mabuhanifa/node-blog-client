@@ -1,18 +1,14 @@
-import './write.css';
+import "./write.css";
 
 const Write = () => {
-    return (
-        <div className="write">
-            <form className="writeForm">
-            <div className="writeFormGroup">
+  return (
+    <div className="write">
+      <form className="writeForm">
+        <div className="writeFormGroup">
           <label htmlFor="fileInput">
             <i className="writeIcon fas fa-plus"></i>
           </label>
-          <input
-            type="file"
-            id="fileInput"
-            style={{ display: "none" }}
-          />
+          <input type="file" id="fileInput" style={{ display: "none" }} />
           <input
             type="text"
             placeholder="Title"
@@ -30,9 +26,9 @@ const Write = () => {
         <button className="writeSubmit" type="submit">
           Publish
         </button>
-            </form>
-        </div>
-    );
+      </form>
+    </div>
+  );
 };
 
 export default Write;

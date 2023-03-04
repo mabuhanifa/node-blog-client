@@ -1,10 +1,10 @@
-import { Link } from 'react-router-dom';
-import './sidebar.css';
+import { Link } from "react-router-dom";
+import "./sidebar.css";
 
 const Sidebar = () => {
-    return (
-        <div className="sidebar">
-            <div className="sidebarItem">
+  return (
+    <div className="sidebar">
+      <div className="sidebarItem">
         <span className="sidebarTitle">ABOUT ME</span>
         <img
           src="https://themegoods-cdn-pzbycso8wng.stackpathdns.com/grandblog/demo/wp-content/uploads/2015/11/aboutme.jpg"
@@ -59,8 +59,8 @@ const Sidebar = () => {
           <i className="sidebarIcon fab fa-twitter-square"></i>
         </div>
       </div>
-        </div>
-    );
+    </div>
+  );
 };
 
 export default Sidebar;
