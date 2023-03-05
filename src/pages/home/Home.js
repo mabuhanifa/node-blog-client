@@ -11,8 +11,8 @@ const Home = () => {
       <div className="home">
         <Posts />
         <Sidebar />
-        <Settings/>
       </div>
+      <Settings />
     </>
   );
 };
