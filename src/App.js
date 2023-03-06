@@ -1,6 +1,6 @@
 import "./App.css";
 import TopBar from "./components/topbar/TopBar";
-import Login from "./pages/login/Login";
+import Register from "./pages/register/Register";
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
       {/* <Home /> */}
       {/* <Single/> */}
       {/* <Write/> */}
-      <Login/>
+      <Register/>
     </div>
   );
 }
